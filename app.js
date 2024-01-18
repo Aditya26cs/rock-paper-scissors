@@ -1,7 +1,7 @@
 let userScore = 0
 let computerScore = 0
 
-let attempts = prompt('enter number games you want to play.');
+let attempts = prompt(' enter the number of attemps ');
  
 if(attempts==null || attempts==="") {
     attempts = 5;
